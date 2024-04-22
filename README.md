@@ -1,2 +1,2 @@
 # Python-In-Action
-Used Python to create patterns and solve different questions in order to get used to the language. Code along with questions present.
+Extensively used Python to create patterns and solve many different questions in order to get ready to use the programming language.
